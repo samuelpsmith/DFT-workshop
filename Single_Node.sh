@@ -26,8 +26,8 @@
 module load gaussian/g16
 
 
-INPUT_FILE=$SLURM_SUBMIT_DIR/FredinPdTPFPP_5.22.2023_1.gjf
-OUTPUT_FILE=$SLURM_SUBMIT_DIR/FredinPdTPFPP_5.22.2023_1.log
+INPUT_FILE=$SLURM_SUBMIT_DIR/example_name.gjf
+OUTPUT_FILE=$SLURM_SUBMIT_DIR/example_name.log
 
 
 jobstart=$(date)
